@@ -2,9 +2,10 @@
 layout: post
 title: Blog de un aprendiz de Desarrollo Web
 ---
-# Esta es la primera vez que uso GitHub               | Día        | Mes   | Año  |
+                                                | Día        | Mes   | Año  |
                                                       | ------- |:--------:| ----:|
                                                       | 26      |junio     | 2023 |
+# Esta es la primera vez que uso GitHub               
 
 | Día        | Mes           | Año  |
 | ------------- |:-------------:| -----:|
