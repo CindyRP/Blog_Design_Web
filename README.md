@@ -27,7 +27,7 @@ fecha: 2023/06/26
 * Transfiere ficheros con formato URL.
 * Actúa como navegador desde la terminal, por lo que el contenido de la petición va a mostrarse en la terminal.
 * *Syntax*: curl[options...]<url> curl https://www.ejemplo.com
-* Info en https://www.fastly.com/es/blog/anatomy-of-a-curl-how-to-use-curl-to-test-an-origin-servers-response#:~:text=Curl%20es%20una%20utilidad%20de,y%20muchas%20distribuciones%20de%20Linux.
+* Info en [anatomy of a curl](https://www.fastly.com/es/blog/anatomy-of-a-curl-how-to-use-curl-to-test-an-origin-servers-response#:~:text=Curl%20es%20una%20utilidad%20de,y%20muchas%20distribuciones%20de%20Linux.)
 ## Wget
 * Comando en linux para descargar archivos
 ## Webhook
