@@ -95,3 +95,4 @@ fecha: 2023/06/26
 * Los principales son: GET y POST.
    * GET: Se utiliza para buscar un recurso específico. Devuelve solo datos.
    * POST: Se utiliza para enviar datos a un recurso determinado.
+* Consultar [web.postman.co](https://web.postman.co/)
