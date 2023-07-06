@@ -82,3 +82,15 @@ fecha: 2023/06/26
   * Hasura es un proyecto de código abierto que conecta nuestras bases de datos y microservicios brindándonos de manera instantánea una API GraphQL lista para producción sin apenas codificar.
 * Hasura te ayuda a crear aplicaciones GraphQL respaldadas por Postgres o de manera gradual permite migrar a aplicaciones GraphQL desde aplicaciones que usan Postgres.
 * Para más información: [Hasura.io](https://hasura.io/)
+---
+layout: post
+title: Blog de un aprendiz de Desarrollo Web
+fecha: 2023/06/30
+---
+# Axios
+* Axios es una librería  JavaScript que puede ejecutarse en el navegador y que nos permite hacer sencillas las operaciones como cliente HTTP.
+## Postman
+* Facilita el día a día de una persona desarrolladora, ya que ayuda en el proceso de prueba y consumo de APIs a través de los métodos de solicitud HTTP.
+* Los principales son: GET y POST.
+   * GET: Se utiliza para buscar un recurso específico. Devuelve solo datos.
+   * POST: Se utiliza para enviar datos a un recurso determinado.
