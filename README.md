@@ -81,3 +81,4 @@ fecha: 2023/06/26
 ## Hasura
   * Hasura es un proyecto de código abierto que conecta nuestras bases de datos y microservicios brindándonos de manera instantánea una API GraphQL lista para producción sin apenas codificar.
 * Hasura te ayuda a crear aplicaciones GraphQL respaldadas por Postgres o de manera gradual permite migrar a aplicaciones GraphQL desde aplicaciones que usan Postgres.
+* Para más información: [Hasura.io](https://hasura.io/)
