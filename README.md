@@ -89,6 +89,7 @@ fecha: 2023/06/26
 
 # Axios
 * Axios es una librería  JavaScript que puede ejecutarse en el navegador y que nos permite hacer sencillas las operaciones como cliente HTTP.
+* Leer documentación en [axios](https://axios-http.com/es/docs/intro)
 ## Postman
 * Facilita el día a día de una persona desarrolladora, ya que ayuda en el proceso de prueba y consumo de APIs a través de los métodos de solicitud HTTP.
 * Los principales son: GET y POST.
