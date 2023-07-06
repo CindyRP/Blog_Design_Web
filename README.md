@@ -4,7 +4,7 @@ title: Blog de un aprendiz de Desarrollo Web
 fecha: 2023/06/26
 ---
 # Esta es la primera vez que uso GitHub
-* Aprendí como hacer un blog en github siguiendo los pasos del link siguiendo los pasos desde la propia [documentación de git.](https://docs.github.com/es/get-started/quickstart/create-a-repo)
+* Aprendí como hacer un blog en github siguiendo los pasos del link siguiendo los pasos desde la propia [documentación de git](https://docs.github.com/es/get-started/quickstart/create-a-repo).
 * Se utiliza Markdown para editar lo que quiera escribir aquí, debo tener a la mano [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) para ver todas las herramientas que tiene.
 ## Typescript
 * Hace que se pueda escribir código con menos errores, es más sencillo, coherente y fácil de probar, en definitiva, más limpio y sólido.
